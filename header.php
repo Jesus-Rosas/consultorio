@@ -31,20 +31,18 @@
             <div class="banner-wrap">
                 <h1>Tu salud depende de nosotros</h1>
                 <h2>Contamos con los mejores especialistas en medicina</h2>
-<!--                <ul class="banner_btn">
-                    <li class="grey"><a href="#">Get Started</a></li>
-                    <li class="yellow"><a href="#">Learn More</a></li>
-                </ul>-->
+                <ul class="banner_btn">
+                    <li class="grey"><a href="#">Mostrar Video</a></li>
+                </ul>
             </div>
         </article>
         <article style="position: absolute; width: 100%; opacity: 0;"> 
             <div class="banner-wrap">
                 <h1>La salud de tu familia depende de ti</h1>
                 <h2>Contáctanos y un especialista te atenderá</h2>
-<!--                <ul class="banner_btn">
-                    <li class="grey"><a href="#">Get Started</a></li>
-                    <li class="yellow"><a href="#">Learn More</a></li>
-                </ul>-->
+                <ul class="banner_btn">
+                    <li class="grey"><a href="#">Mostrar Video</a></li>
+                </ul>
             </div>
         </article>
     </div>         	           	      

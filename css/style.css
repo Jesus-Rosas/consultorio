@@ -1089,3 +1089,21 @@ h3.call_text {
     color: #f7f7f7;
     font-size: 3.5em;
 }
+.table
+{
+	border: 1px solid #333;
+}
+.tbl-header
+{
+	background: #6BD26B;
+}
+.body-bk > .main
+{
+	background: #ddd;
+}
+.btn-form
+{
+	width: 45%;
+	display: block;
+	margin: 0 auto;
+}
