@@ -12,7 +12,6 @@
                     <i class="s1"> </i>
                     <li class="desc">
                         <h4><a href="#">Ambulancias al Instante</a></h4>
-                        <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum</p>
                     </li>
                     <div class="clearfix"> </div>
                 </ul>
@@ -20,7 +19,6 @@
                     <i class="s2"> </i>
                     <li class="desc">
                         <h4><a href="#">Equipos de última tecnología</a></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci</p>
                     </li>
                     <div class="clearfix"> </div>
                 </ul>
@@ -28,7 +26,6 @@
                     <i class="s3"> </i>
                     <li class="desc">
                         <h4><a href="#">Excelencia Médica</a></h4>
-                        <p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum</p>
                     </li>
                     <div class="clearfix"> </div>
                 </ul>
@@ -38,7 +35,6 @@
                     <i class="s4"> </i>
                     <li class="desc">
                         <h4><a href="#">Expertos en Nutriologia</a></h4>
-                        <p>Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me mutationem consuetudium lectorum. Mirum </p>
                     </li>
                     <div class="clearfix"> </div>
                     
@@ -59,7 +55,6 @@
                     <i class="s6"> </i>
                     <li class="desc">
                         <h4><a href="#">Primeros Auxilios</a></h4>
-                        <p>Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum</p>
                     </li>
                     <div class="clearfix"> </div>
                 </ul>
